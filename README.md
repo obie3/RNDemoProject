@@ -44,7 +44,7 @@ Sensitive values are never stored in plain AsyncStorage. A simple secure storage
 ## Running locally
 
 ```bash
-git clone https://github.com/obie3/react-native-production-demo.git
+git clone https://github.com/obie3/RNDemoProject.git
 cd RNDemoProject
 npm install
 npx yarn start
